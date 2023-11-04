@@ -1,0 +1,10 @@
+.Header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;  /* 1rem = 16px, logo 0.25rem = 4px */
+}
+
+.Header img {
+    height: 2rem;
+}
